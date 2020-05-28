@@ -13,7 +13,6 @@ class MainActivity : AppCompatActivity() {
     var endlessPagerAdapter : EndlessPagerAdapter? = null
 
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
